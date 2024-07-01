@@ -1,4 +1,4 @@
-### **Unsupervised and Statistical Analysis of the 1000 Genomes Project Data**
+### **Genetic Variation Analysis of the 1000 Genomes Project Using Principal Component Analysis"**
 #### 1. Introduction
 
 The 1000 Genomes Project provides a comprehensive resource of human genetic variation. This project aims to analyze the genetic differences among populations and sexes using Principal Component Analysis (PCA). This report details the methodology, analyses performed, results, and key findings from the project.
