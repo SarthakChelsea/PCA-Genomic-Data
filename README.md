@@ -1,4 +1,4 @@
-### Unsupervied and Statistical Analysis of the 1000 Genomes Project Data
+### Unsupervised and Statistical Analysis of the 1000 Genomes Project Data
 
 #### 1. Introduction
 
